@@ -1,2 +1,2 @@
 # number_secret
-Um jogo de números secretos que estou desenvolvendo em javascript
+Este pequeno joguinho, foi desenvolvido para praticar conhecimentos adquiridos por mim na linguagem js, bem como buscar com demais colegas da área melhorias e sujestões para estar me aprimorando.
